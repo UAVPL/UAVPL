@@ -1,0 +1,9 @@
+# status
+System Uptime: 143 seconds
+Current Time: 2019-10-06T08:42:06.288+00:00
+Voltage: 0 * 0.1V (0S battery - NOT PRESENT)
+CPU Clock=168MHz, Vref=3.28V, Core temp=31degC, GYRO=MPU6000, ACC=MPU6000
+Stack size: 2048, Stack address: 0x1000fff0
+I2C Errors: 0, config size: 2543, max available config: 16384
+CPU:6%, cycle time: 127, GYRO rate: 7874, RX rate: 33, System rate: 9
+Arming disable flags: RXLOSS CLI MSP
